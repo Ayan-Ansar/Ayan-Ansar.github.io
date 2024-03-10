@@ -1,6 +1,6 @@
 ## Ayan Ansar
 
-**Data Scientist**
+### **Data Scientist**
 
 * Phone: +91-9717172592
 * Email: ayanansar.43@gmail.com
@@ -8,11 +8,11 @@
 * GitHub: link to your GitHub profile
 * Portfolio: link to this portfolio markdown file
 
-**Summary**
+### **Summary**
 
 A Data Scientist with over 1 year of experience developing, optimizing models, and performing statistical analysis to solve complex business problems. Skilled in A/B testing, data analysis, model training/evaluation, and deployment across various frameworks. Proven ability to collaborate with stakeholders and translate requirements into technical solutions. Eager to leverage expertise and continuous learning to contribute to innovation within a team.
 
-**Skills**
+### **Skills**
 
 **Machine Learning & Deep Learning:** TensorFlow, PyTorch, LangChain, Scikit-learn, Huggingface
 **Programming Languages:** Python, C++
@@ -20,7 +20,7 @@ A Data Scientist with over 1 year of experience developing, optimizing models, a
 **Cloud:** Docker, GIT, AWS
 **Other:** A/B Testing, Probability & Statistics, Linear Algebra, Flask
 
-**Work Experience**
+### **Work Experience**
 
 **Fittlyf | Data Science Intern (May 2023 – Oct 2023)**
 
@@ -33,28 +33,23 @@ A Data Scientist with over 1 year of experience developing, optimizing models, a
 
 * Scraped and curated data from 10,000+ dishes using BeautifulSoup, creating a robust dataset for a highly accurate calorie predictor model, while improving data quality by reducing inconsistencies by 12%.
 
-**Projects**
+### **Projects**
 
 * **PPE Detection on Construction Sites:** Designed and developed a user-friendly web application using Flask and Bootstrap for a safety helmet and safety jacket detection system using YOLOv8, achieving a mAP of 83.5%.
 * **Hangman AI:** Built a Hangman AI using deep learning, enabling the model to predict letters based on partially revealed words and context.
 * **Customer Engagement Analysis:** Utilized SQL to extract data, exported as CSV files, and harnessed Tableau to craft an interactive dashboard for in-depth data analysis and insightful presentation.
 
-**Education**
+### **Education**
 
 * Maharaja Surajmal Institute of Technology, Delhi, India (Aug 2019 - Aug 2023)
     * B.Tech (Electronics & Communication): CGPA: 8.37/10.0
 * Father Agnel School, Delhi, India (May 2018 - May 2019)
     * XII Standard (PCM): 93.50 %
 
-**Certifications**
+### **Certifications**
 
 * Deep Learning Specialization (Coursera) ([link to your Deep Learning Specialization certificate])
 * Machine Learning Specialization (Coursera) ([link to your Machine Learning Specialization certificate])
 * Become a Probability & Statistics Master (Udemy) ([link to your Probability & Statistics Master certificate])
 * IBM AI Engineering Professional Certificate (Coursera) ([link to your IBM AI Engineering Professional Certificate])
 
-**Please note:**
-
-* Replace the bracketed links with your actual profile links.
-* You can add more sections to this portfolio file, such as links to your publications (if any) or awards you've received.
-* Consider adding visuals to your portfolio, such as screenshots of your projects or dashboards.
